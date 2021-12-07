@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Veronika Müller-Wilmes!</h1>
-<h3 align="left">I am passionate about finance and technology.</h3>
+<p align="left">I am passionate about finance and technology and am currently starting to learn coding.😎</p>
+<p align="left">Follow me on my journey. 🚀</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
