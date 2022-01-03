@@ -1,4 +1,4 @@
-<h1 align="left">Hello World 👋, I'm Veronika Müller-Wilmes!</h1>
+<h1 align="left">Hello World 👋, I'm Veronika!</h1>
 <p align="left">I am passionate about finance and technology and am currently starting to learn coding.😎</p>
 <p align="left">Follow me on my journey. 🚀</p>
 
